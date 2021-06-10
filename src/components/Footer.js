@@ -65,7 +65,8 @@ function Footer() {
           <div class='footer-logo'>
             
           </div>
-          <small class='website-rights'>ITMOGO © 2021</small>
+          <small class='website-rights'> 
+          ITMOGO © 2021 | Contact: +233-244-646214 | Email: asamoah.frempong@gmail.com </small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
